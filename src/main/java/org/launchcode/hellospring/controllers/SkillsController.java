@@ -49,7 +49,7 @@ public class SkillsController {
                 "<option value='JavaScript'>JavaScript</option>" +
                 "<option value='Python'>Python</option>" +
                 "</select>" +
-                "<br>" +
+                "<br/>" +
                 "<input type='submit' value='submit>" +
                 "</body>" +
                 "</html>";
